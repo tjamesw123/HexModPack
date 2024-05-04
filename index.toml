@@ -5,6 +5,10 @@ file = ".gitattributes.txt"
 hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
 
 [[files]]
+file = ".github/workflows/jekyll-gh-pages.yml"
+hash = "adcb6add3e59bd5af75ddea21a49df9d77be65920fc6a766a36ff9453c925908"
+
+[[files]]
 file = "mods/ImmediatelyFast-Fabric-1.2.13+1.19.2.jar"
 hash = "f8a752c561f952c604ff3bcf30fb44fb84fa0e3b4a366a0bf7d29ee138bfc702"
 
@@ -20,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "19276358b66db4b71d534bb7024a82dbf2bef87a95b604319c45fbfa82f5e24f"
+hash = "2644241d528f712c92d5dcaeb93acd85991a40e40403b5db6d9fa8f166b527b7"
 metafile = true
 
 [[files]]
@@ -86,10 +90,6 @@ metafile = true
 file = "mods/indium.pw.toml"
 hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
-
-[[files]]
-file = "mods/iris-mc1.19.2-1.6.11.jar"
-hash = "6a06a609c749c78b098f1664ea33d1b54e6d335ef6ae7f9eff2029e814e393e5"
 
 [[files]]
 file = "mods/jei.pw.toml"
