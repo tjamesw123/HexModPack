@@ -1,0 +1,3 @@
+*.mrpack
+.github/
+.gitattributes.txt
