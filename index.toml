@@ -1,0 +1,176 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ImmediatelyFast-Fabric-1.2.13+1.19.2.jar"
+hash = "f8a752c561f952c604ff3bcf30fb44fb84fa0e3b4a366a0bf7d29ee138bfc702"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6064baf49dee806afd111ebf89bbad222a5f023e5fd2324b7b0820cd78553117"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "87f339c783840fc692ce681b878bf683bee38b5ff5388a4151b5c14b9ecfd8aa"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "19276358b66db4b71d534bb7024a82dbf2bef87a95b604319c45fbfa82f5e24f"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "54fa3d88cf3630e694502184e1e2ed0be042dc9517593eb15d09dc7f174df1c8"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "90dec0bb053cd7eb7a5474af1b692917c0925bb938747a4e43215f1815e423e7"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered-4.3.jar"
+hash = "1e216ce90e49e283e133daee2fb59a09cb3a93a515926c2215778f833b2da687"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "d6b5b39cfbe821c74aef77da9957b9eed5a76b9554aaed62a2c5f78905e27679"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "1dae1ed95575e8248b9fa840f1a7c22d68c86dfc3f94a199a4115e2b12d5adc0"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
+metafile = true
+
+[[files]]
+file = "mods/hex-keys.pw.toml"
+hash = "cea2eb907828407d2e71be03d51773aad34fb47f904358a9447c0f7af9762af8"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "3c8e7846f5805cde38072052bc747ba78d5493037b613f957b45cd8f9208cdd3"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "fda7c004bd2c7d60d2d3bda94a3c839da723e78d437d1f39ac041f7609b5db91"
+metafile = true
+
+[[files]]
+file = "mods/hexgloop.pw.toml"
+hash = "37872049651685fc96ae6c2a7c3928fddd1409231522a6c3c12ed64f59e72c8d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-mod.pw.toml"
+hash = "f9ab5a3d812abfcfbc2f023c28a744b2a552ec726ee209e93b15326871c22913"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
+metafile = true
+
+[[files]]
+file = "mods/iris-mc1.19.2-1.6.11.jar"
+hash = "6a06a609c749c78b098f1664ea33d1b54e6d335ef6ae7f9eff2029e814e393e5"
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "c0a8e5ce2e2d20387d17fd1141b5e98ed2241b766b0c8bc8952e97b8f55ec3af"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "98921d208121d9da3bfb0962812321b3c64608e1f857248c96273bfd09db0f86"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
+hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
+
+[[files]]
+file = "mods/oneironaut.pw.toml"
+hash = "12fa3adf62869f4ce5bb7a98018b6fcd904b7b426abf97170471b4d61e8c231d"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "c64f8051b4c8cd2d1ecc17347eb986f7fec0613622cf993c92c323e8b6d9d4c7"
+metafile = true
+
+[[files]]
+file = "mods/portalhexaddon-Fabric-1.19.2-0.5.3.jar"
+hash = "08af8265d65413a0740bdf4f248e75e329a9b407acf01c3a0dc9e4525fcf7040"
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "6d91c6c9817438fc56185597b83792909d4657bd958a74629f6e11117659be4b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "0d573b629bdcc97a5e6c238eecad13b14a9fbacbe7d4bf4f2a93f2e9c02ab01d"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "d1fedcab81aed337f312907b03266683546bdcb83807582bb9f41787f9b80876"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
+metafile = true
+
+[[files]]
+file = "mods/wnboi.pw.toml"
+hash = "aac4dc8649bdad07ffb25998c53dcb2c8117199e00856482e1489f809b65254e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "b37adebf4d245f03de16cc6a38d20b1bf0866110e72181cbab003c6b3757ba98"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "fe29fcc69744fa90f4fd35890cc44033d1b5bca0e0d45cb40c89250eabad6ab3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.pw.toml"
+hash = "cd37432982096708513ea99f46734d3407f26e1b69df399722de5fd4e089e10a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.pw.toml"
+hash = "6b98f78113cddfd12400b0e981de0a3c427ca9db42a11d6d438ed728133a790c"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "3543c9a638c6bed71990a51f9e894abe9d1a3713b2a885f13111ba8603e55adf"
+metafile = true

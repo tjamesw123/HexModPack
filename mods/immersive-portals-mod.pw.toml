@@ -1,0 +1,13 @@
+name = "Immersive Portals"
+filename = "immersive-portals-2.3.2-mc1.19.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bea99baf67a9084409bdb72ba53c961fd1babd9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4929201
+project-id = 332273
