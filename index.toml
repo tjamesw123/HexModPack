@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitattributes.txt"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
-file = ".github/workflows/jekyll-gh-pages.yml"
-hash = "adcb6add3e59bd5af75ddea21a49df9d77be65920fc6a766a36ff9453c925908"
-
-[[files]]
-file = ".packwizignore.txt"
-hash = "2d94cbe803a7c9155f8f6718a8b8ebda63df73c3acdfd1a2bf0570c0831b55c3"
-
-[[files]]
 file = "mods/ImmediatelyFast-Fabric-1.2.13+1.19.2.jar"
 hash = "f8a752c561f952c604ff3bcf30fb44fb84fa0e3b4a366a0bf7d29ee138bfc702"
 
