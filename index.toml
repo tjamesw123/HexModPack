@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c33fa79952c4618cd9df346a71353a915535cdfd45c397cf33f0d351985e0473"
+hash = "3815b5c01b103a10c854189b5f7a4a2582ef972332a35578e189faba81bc011a"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "85f3a4a42b755714bf7cc3dbb0c12a4477204f167593f26ff92f7a1c5acda3cb"
+hash = "a0a0fb8b0139bafbb49656315a044ae52bc61ba6552091fba3071e0cee3d56f5"
 metafile = true
 
 [[files]]
