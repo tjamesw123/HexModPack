@@ -228,11 +228,6 @@ hash = "d8a51586ed3c982870bce4d9876a550ac188ebc2263e3acc368605978df608c2"
 metafile = true
 
 [[files]]
-file = "mods/edf-remastered.pw.toml"
-hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
 metafile = true
