@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "395f904642ba5daf2cc4f6dbdbf9cede5897a80229247186d2c705f649b35b76"
+hash = "7343aeffa92ca64b31a0d82db582b8f2bfd68757af0777410b8754c159f228a8"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "6ce97b65a78d66e0ae006105e63e2ccf8af6b3b266a2c5234f6ae7657b98220b"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-ways.pw.toml"
-hash = "9301f58a828525eb79276b407693ddc1535d6001754d04c5a2ddcf86a1cb96ff"
+hash = "de7cb9413ff26a6876f1b30ef08d10c93834885ceb094334d173d96b49e7afcb"
 metafile = true
 
 [[files]]
@@ -269,12 +269,12 @@ metafile = true
 
 [[files]]
 file = "mods/hexkeys.pw.toml"
-hash = "a7182aabf22c79f19287acd277c66e5f5fe94df244e1d05f30aa102074a49eda"
+hash = "bafe00155568da7f2ea136960eabd9d3016597df57deaa381173b6a982394fe9"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3815b5c01b103a10c854189b5f7a4a2582ef972332a35578e189faba81bc011a"
+hash = "9e86ac051df402a8eaa896d4fcb7e0d3cb2ac0fe9e100447b4d2fd831573e525"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9cf270ff7a0bda4769db11197f43698ebc105e81870d6e7f6b9979c1dbd38ae9"
+hash = "109dfcee8f57c1f57fe0dad60b4b87a34889d639074a78ba347be231c7466157"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneironaut.pw.toml"
-hash = "a8b6c42b612a29a51c1e8e65a48a8a55645c02e46db999e7f7bc4c22fcb7aec4"
+hash = "c62df6b51b7a47153d6e40c88bbd112c45ec9588e71fb2ce936e325283492821"
 metafile = true
 
 [[files]]
@@ -334,12 +334,12 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "a0a0fb8b0139bafbb49656315a044ae52bc61ba6552091fba3071e0cee3d56f5"
+hash = "ffb33611120a614cdbdfcdf6ab9ff42ffc980a4395541b1f239d72c9b0873afb"
 metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "959fd2436cd78e882f8804d98021daddd0c0583ef6fb3a2a281243d67100c8f5"
+hash = "2fd56552ca50c925514459e7af81aaac4ab6df4095ab2dc234bb999fcb1980f5"
 metafile = true
 
 [[files]]
@@ -354,12 +354,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "870cb5e6bdc46fe6731b13e62da401dd2a2ea8dd6d8ed1f442a461166c34784c"
+hash = "cb4cae2c567bbd38a69dc8643e0541e399349c15b09a53bd3e63766b15ba0a31"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "47d45a19d3321034ac9e206dd85771c8066cfb910db68387e3937bf1ab04ae6d"
+hash = "f24b7deb0da811941b4ec3b54c1791d6eca7999f7dcbf0cba98f06aaa6e60b91"
 metafile = true
 
 [[files]]

@@ -1,6 +1,7 @@
 name = "Cardinal Components API"
 filename = "cardinal-components-api-5.0.2.jar"
 side = "server"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/K01OU20C/versions/tPfCTMiZ/cardinal-components-api-5.0.2.jar"
